@@ -1,5 +1,10 @@
 # Headkey Memory System
 
+--- DRAFT v1 ---
+
+_NOTE: v2 is in progress but not OSS yet_  
+
+
 **Intelligent Memory Management for AI Agents**
 
 Headkey is a sophisticated memory management system built on the **Cognitive Ingestion & Belief Formation Engine (CIBFE)** architecture. It provides AI agents with the ability to intelligently store, categorize, retrieve, and selectively forget information while maintaining coherent belief systems.
